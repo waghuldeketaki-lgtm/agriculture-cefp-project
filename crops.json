@@ -1,0 +1,14 @@
+[
+    {
+        "name": "tomato",
+        "type": "fruit",
+        "season": "winter",
+        "soil": "black"
+    },
+    {
+        "name": "Wheat",
+        "type": "Grain",
+        "season": "Rabi",
+        "soil": "Loamy"
+    }
+]
