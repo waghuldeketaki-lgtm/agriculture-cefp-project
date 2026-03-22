@@ -10,5 +10,11 @@
         "type": "Grain",
         "season": "Rabi",
         "soil": "Loamy"
+    },
+    {
+        "name": "Wheat",
+        "type": "Grain",
+        "season": "Raby",
+        "soil": "Roamy"
     }
 ]
