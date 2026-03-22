@@ -1,37 +1,39 @@
-# Agriculture CEFP - Crop & Farm Management System
+# 🌱 Agriculture CEFP Project
+### Crop & Farm Management System (Python CLI)
 
-A simple **Python CLI project** to manage crops for agriculture students. Users can add, view, search, and delete crop details with persistent storage in JSON.
-
----
-
-## Features
-- Add crop details: name, type (Vegetable/Fruit/Grain), season, soil
-- View all crops
-- Search crops by name
-- Delete crops
-- Data stored persistently in `crops.json`
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project](https://img.shields.io/badge/Project-Student%20CEFP-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
-## Technologies
-- Python 3.x
-- JSON for data storage
-- Command-Line Interface (CLI)
+## 📌 About the Project
+This project is a **Python-based Command Line Interface (CLI) application** developed as part of an academic CEFP project.  
+It helps in managing agricultural crop data efficiently using **JSON-based storage**.
+
+The system allows users to perform essential operations like adding, viewing, searching, and deleting crop records.
 
 ---
 
-## How to Run
-1. Clone the repository:
+## 🚀 Features
+✔ Add new crop details (Name, Type, Season, Soil)  
+✔ View all stored crops  
+✔ Search crops by name  
+✔ Delete crop records  
+✔ Persistent data storage using JSON  
+
+---
+
+## 🛠️ Tech Stack
+- **Python 3**
+- **JSON (File Handling)**
+- CLI (Command Line Interface)
+
+---
+
+## ▶️ How to Run
 
 ```bash
-git clone https://github.com/yourusername/agriculture_cefp.git
-## Screenshot
-
-Here’s how the Agriculture CEFP program looks when running:
-
-![Agriculture CEFP Screenshot](screenshot.png)
-## Team Photo
-
-Here’s our team behind the Agriculture CEFP project:
-
-![Our Team](group_photo.png)
+git clone https://github.com/waghuldeketaki-lgtm/agriculture-cefp-project.git
+cd agriculture_cefp
+python main.py
