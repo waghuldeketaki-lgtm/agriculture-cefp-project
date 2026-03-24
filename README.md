@@ -44,11 +44,6 @@ The goal is to build a **simple, user-friendly, and meaningful solution** for re
 
 ---
 
-## ▶️ Run Locally
-
-```bash
-git clone https://github.com/waghuldeketaki-lgtm/agriculture-cefp-project.git
-cd agriculture-cefp-project
 🌟 Future Enhancements
 
 🚀 Soil-based crop recommendations
@@ -61,3 +56,12 @@ cd agriculture-cefp-project
 ✔ Real-world problem solving
 ✔ Frontend development basics
 ✔ Writing clean and structured code
+
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/waghuldeketaki-lgtm/agriculture-cefp-project.git
+cd agriculture-cefp-project
+
+
