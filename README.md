@@ -54,7 +54,9 @@ The goal is to build a **simple, user-friendly, and meaningful solution** for re
 📚 What I Learned
 
 ✔ Real-world problem solving
+
 ✔ Frontend development basics
+
 ✔ Writing clean and structured code
 
 
